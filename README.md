@@ -10,6 +10,6 @@
 </head>
 <body>
   <!-- Paste your Figma iframe embed code below -->
-  <iframe src="[https://www.figma.com/embed?embed_host=share&url=YOUR_FIGMA_URL](https://adrianraj.figma.site/)" allowfullscreen></iframe>
+  <iframe src="[https://www.figma.com/embed?embed_host=share&url=YOUR_FIGMA_URL](https://adrianraj.figma.site)" allowfullscreen></iframe>
 </body>
 </html>
